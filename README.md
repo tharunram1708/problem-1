@@ -1,2 +1,6 @@
 # problem-1
-first screening test
+created in figma tools
+recreated 3 screens 
+first page
+second page
+third page
